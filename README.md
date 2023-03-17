@@ -2,7 +2,7 @@
 - 👀 I’m interested in wa bots
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on WA bot
-- 📫 How to reach me wa.me/265990169520
+- 📫 How to reach me .....
 
 <!---
 HIROITADORI72/HIROITADORI72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
